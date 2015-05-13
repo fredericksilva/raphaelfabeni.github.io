@@ -21,3 +21,6 @@ paginate: 5
 paginate_path: 'blog/page:num'
 
 permalink:   /:title/
+
+category_dir: blog/categoria
+category_title_prefix: 'Posts sobre '

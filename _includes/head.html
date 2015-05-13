@@ -2,6 +2,8 @@
     <meta charset="utf-8">
     {% if page.type == 'Post' %}
     <title>{{ page.title }} - Blog | Raphael Fabeni</title>
+    {% elseif page.type == 'Category' %}
+    <title>{{ page.title }} - Blog | Raphael Fabeni</title>
     {% else %}
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     {% endif %}

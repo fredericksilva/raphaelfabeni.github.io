@@ -6,6 +6,7 @@ type: Post
 date: 2015-04-14
 image: 'js-tips.jpg'
 alt: 'Cadeira de madeira vermelha em um quintal coberto de neve'
+category: "JavaScript"
 ---
 
 ## Guarde o tamanho do array
