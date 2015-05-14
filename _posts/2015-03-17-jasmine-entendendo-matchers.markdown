@@ -6,6 +6,7 @@ type: Post
 date: 2015-03-17
 image: 'matchers-jasmine.jpg'
 alt: 'Cadeado preso em uma grade'
+category: "JavaScript"
 ---
 
 Há algum tempo atrás escrevi umas groselhas sobre *Jasmine*, mais uma introdução sobre o *framework* e como escrever testes era algo intuitivo e fácil. Se você tem interesse, o post é o: [Brincando com Jasmine](/brincando-com-jasmine).

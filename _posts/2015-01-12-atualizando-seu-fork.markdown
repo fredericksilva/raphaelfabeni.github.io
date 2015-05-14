@@ -6,6 +6,7 @@ type: Post
 date: 2015-01-12
 image: 'atualizando-fork.jpg'
 alt: 'Mesa de madeira vista de cima, cheia de ferramentas'
+category: "Git"
 ---
 
 Contribuir em projetos *open source* é uma das coisas mais legais da área de desenvolvimento. Ano passado, senão me engano no Intercon WP do iMasters, rolou um FEMUG dentro do evento e, um dos temas abordados foi exatamente esse: a contribuição em projetos.

@@ -5,6 +5,7 @@ description: "Com o rebase interativo, conseguimos editar nossos commits em um m
 type: Post
 date: 2015-02-02
 image: 'git-alterando-commits-parte-2.jpg'
+category: "Git"
 ---
 
 No [post anterior](/git-alterando-commits-parte-1/), vimos duas das coisas que são possíveis de se fazer com o *rebase* interativo:

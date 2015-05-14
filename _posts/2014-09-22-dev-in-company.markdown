@@ -5,6 +5,7 @@ description: "Um resumo de como foi o evento Dev in Company lá em BH!"
 type: Post
 date: 2014-09-22
 image: 'dev-in-company-organizacao.jpg'
+category: "Eventos"
 ---
 
 Esse final de semana (dia 20) rolou o <a href="http://devincompany.org">Dev in Company</a> lá em Belo Horizonte. A idéia do evento é muito legal, e propõe um ótimo ambiente para fazer novas amizades na área, trocar experiências e claro, compartilhar conhecimento (o bom e velho <i>networking)</i>. A organização fica por conta do <a href="http://betomuniz.com/" target="_blank">Beto Muniz</a>, <a href="https://www.linkedin.com/in/lurimendes" target="_blank">Luiz Augusto</a>, <a href="https://www.linkedin.com/in/paulasfaria" target="_blank">Paula Faria</a> e <a href="http://rmdias.com/" target="_blank">Rodolfo Dias</a>.
@@ -33,7 +34,7 @@ Depois foi a minha vez \o/. Falei um pouco sobre <b>CSS3</b> com a ajuda de <b>S
     <img src="{{ site.baseurl}}build/img/posts/raphaelfabeni-dev-in-company.jpg" alt="Raphael Fabeni falando a frente de uma sala no evento Dev in Company">
 </figure>
 
-Logo em seguida o <a href="https://twitter.com/lucasdsbh" target="_blank">Lucas Estevão</a> falou sobre Design Responsivo. Foi praticamente uma aula. Ele falou de literalmente tudo: passando por conceitos, técnicas e exemplos. Gostei bastante da talk e confesso que apesar de já saber um pouco sobre o tema, o Lucas abordou de uma forma tão legal e completa, que deu pra relembrar vários conceitos além de aprender várias coisas novas. O cara manja muito e mostrou que <b>Design Responsivo não é só encolher os elementos pra caber na tela</b>. 
+Logo em seguida o <a href="https://twitter.com/lucasdsbh" target="_blank">Lucas Estevão</a> falou sobre Design Responsivo. Foi praticamente uma aula. Ele falou de literalmente tudo: passando por conceitos, técnicas e exemplos. Gostei bastante da talk e confesso que apesar de já saber um pouco sobre o tema, o Lucas abordou de uma forma tão legal e completa, que deu pra relembrar vários conceitos além de aprender várias coisas novas. O cara manja muito e mostrou que <b>Design Responsivo não é só encolher os elementos pra caber na tela</b>.
 
 O <a href="https://twitter.com/ruyadorno" target="_blank">Ruy Adorno</a> apresentou uma talk com o tema <i>"O Diário de um Desenvolvedor Front-End"</i> e apontou temas importantes como formação, projetos <i>open-source</i> e mercado de trabalho. Com certeza foi a palestra mais interativa que teve e sinceramente nem vi o tempo passar de tão entretido que fiquei com o assunto.
 
@@ -46,7 +47,7 @@ A última palestra foi do <a href="http://pliab.com/">François</a>, um desenvol
     <figcaption>Galera da organização e que palestrou no evento: Luiz Augusto, Lucas Estevão, eu, Rodolfo Dias, François, Paula Faria e Ruy Adorno</figcaption>
 </figure>
 
-O evento e a viagem em si foram bem legais! Valeu super a pena! Hotel bom, evento legal e galera gente fina. Quase que ia me esquecendo, o <b>almoço foi por conta do evento</b> a base de <i>cerveja</i>, <i>refrigerante</i> e <i>pizza</i>. E no final, rolaram uns sorteios de livros e camisetas. 
+O evento e a viagem em si foram bem legais! Valeu super a pena! Hotel bom, evento legal e galera gente fina. Quase que ia me esquecendo, o <b>almoço foi por conta do evento</b> a base de <i>cerveja</i>, <i>refrigerante</i> e <i>pizza</i>. E no final, rolaram uns sorteios de livros e camisetas.
 
 Depois do evento ainda havia uma missão: acabar com as cervejas restantes! Apesar de não beber, fiquei um tempo lá com o pessoal mas tive que ir embora para pegar o vôo de volta pra São Paulo.
 

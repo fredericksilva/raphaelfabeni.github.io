@@ -5,9 +5,10 @@ description: "Um evento literalmente do Inferno"
 type: Post
 date: 2014-11-04
 image: 'front-in-sampa-2014-raphael-fabeni-2.jpg'
+category: "Eventos"
 ---
 
-No último dia 25 de outubro rolou a 3ª edição do [Front in Sampa](http://frontinsampa.com.br/) no [Inferno Club](http://www.infernoclub.com.br/). SIM, pode acreditar, é uma balada. O evento acontece durante o dia inteiro e no final ainda rola um *happy hour* open bar com direito a Dj e tudo. 
+No último dia 25 de outubro rolou a 3ª edição do [Front in Sampa](http://frontinsampa.com.br/) no [Inferno Club](http://www.infernoclub.com.br/). SIM, pode acreditar, é uma balada. O evento acontece durante o dia inteiro e no final ainda rola um *happy hour* open bar com direito a Dj e tudo.
 
 Tinha ido nas duas edições anteriores e já havia me programado para ir nesse ano de qualquer maneira. Aí vem a notícia boa! Um dia cá estava eu de bobeira quando toca meu celular: era o Sergio, também conhecido como [Elvis](https://twitter.com/elvisdetona), que é um dos organizadores do evento, me convidando para palestrar sobre CSS3. Aceitei na hora.
 
@@ -46,7 +47,7 @@ Assim que acabou a primeira palestra, levantei para ir ao banheiro e voltei com 
 
 Um negócio que achei legal do Front in Sampa foi o tanto gente conhecida que estava lá. Pude rever e conversar com vários amigos que há algum tempo não via.
 
-Minha palestra era a última do evento e parecia que o tempo não passava. Ansiedade tava em nível extremo e eu queria que chegasse logo a hora. Até a pizza que comi na hora do almoço com o grande [Shankar Cabus](https://twitter.com/shankarcabus) não me acalmou. 
+Minha palestra era a última do evento e parecia que o tempo não passava. Ansiedade tava em nível extremo e eu queria que chegasse logo a hora. Até a pizza que comi na hora do almoço com o grande [Shankar Cabus](https://twitter.com/shankarcabus) não me acalmou.
 
 ## As palestras do Front in Sampa
 

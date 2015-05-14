@@ -6,6 +6,7 @@ type: Post
 date: 2015-03-25
 image: 'galaxia.jpg'
 alt: 'Imagem mostrando o espaço cheio de estrelas'
+category: "Geral"
 ---
 
 Era um dia como outro qualquer: pra variar uma garoa chata e um trânsito caótico em São Paulo. Tinha chegado mais cedo no trabalho e estava eu navegando na *interwebs da vida e acabei caindo [nesse site](http://leokz.com/campanha/). Era uma página com o objetivo de arrecadar fundos para ajudar um **cara** que tinha um certo tipo de câncer e que suas chances de cura aqui no Brasil haviam se esgotado e, sua única real chance de melhora era um tratamento nos EUA.

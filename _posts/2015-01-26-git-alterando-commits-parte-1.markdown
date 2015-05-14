@@ -5,6 +5,7 @@ description: "Muitas vezes acabamos fazendo commits que acabam não tendo muito 
 type: Post
 date: 2015-01-26
 image: 'git-alterando-commits-parte-1.jpg'
+category: "Git"
 ---
 
 Quanto mais mexemos com *git* mais descobrimos coisas mirabolantes que ele pode fazer. Descobri há um tempo atrás uma maneira de organizar/alterar seus *commits* e que me ajudou bastante.

@@ -5,6 +5,7 @@ description: "CSS transition é vida! Use-o em prol de uma melhor UX"
 type: Post
 date: 2015-02-19
 image: 'css-transition.jpg'
+category: "CSS"
 ---
 
 O CSS3 vem pra ajudar a todos. Pro desenvolvedor a vida fica mais fácil pois é possível chegar a efeitos, que antes precisavam de uma volta gigantesca, de uma forma bem mais simples; e o usuário que pode ganhar uma experiência melhor e mais rápida.

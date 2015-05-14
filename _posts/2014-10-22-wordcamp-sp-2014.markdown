@@ -5,6 +5,7 @@ description: "Edição paulista do evento focado em WordPress"
 type: Post
 date: 2014-10-22
 image: 'wordcamp-2014.jpg'
+category: "Eventos"
 ---
 
 No último sábado (18) rolou mais uma edição do [WordCamp São Paulo](http://2014.saopaulo.wordcamp.org/), um evento totalmente voltado para o desenvolvimento de projetos em WordPress. Esse ano foi a primeira vez que fui ao evento e confesso que estava bastante empolgado por dois motivos: primeiro pelo fato de vários amigos terem ido em edições anteriores do evento e terem rasgado o mesmo de elogios; e segundo, pois na parte da tarde, ia falar um pouco em uma talk com o tema: <b>Do início ao fim com WordPress</b>.

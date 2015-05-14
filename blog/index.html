@@ -8,6 +8,14 @@ language: pt-br
 <h1 class="title">Blog</h1>
 
 <section id="conteudo" class="posts">
+    <ul class="category-list">
+        <li><i class="fa fa-book"></i></li>
+        {% for cat in site.categories %}
+            <li>
+                <a href="/blog/categoria/{{ cat[0] }}">{{ cat[0] }}</a>
+            </li>
+        {% endfor %}
+    </ul>
 {% for post in paginator.posts %}
     <article class="post">
         <h1 class="title">

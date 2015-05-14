@@ -5,6 +5,7 @@ description: "Sempre gostei de escrever, agora tenho a meta de pelo menos fazer 
 type: Post
 date: 2015-01-09
 image: '1-post-per-week.jpg'
+category: "Geral"
 ---
 
 Esses dias navegando pela internet acabei caindo no [post](http://blog.da2k.com.br/2014/12/31/um-post-por-dia/) do grande [Fernando Daciuk](https://twitter.com/fdaciuk). No post ele se coloca uma meta que é escrever um post por dia que serão compartilhados com a hashtag *#1postperday*.

@@ -5,6 +5,7 @@ description: "Obsessivo por organização, acabei brincando esses dias para reor
 type: Post
 date: 2015-01-20
 image: 'regex-organizacao-css.jpg'
+category: "CSS"
 ---
 
 Sempre fui um cara bastante preocupado em organização e acho que acabei passando essa característica pro mundo do desenvolvimento. Por exemplo, código não identado ou com a falta de um padrão são coisas que me incomodam um pouco. Se você se interessa pelo assunto, recomendo esse [artigo](https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e) do [Shankar Cabus](https://twitter.com/ShankarCabus) que é focado em CSS escalável.

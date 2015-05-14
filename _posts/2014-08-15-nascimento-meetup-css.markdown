@@ -5,6 +5,7 @@ description: "Como surgiu a idéia de reunir a galera de desenvolvimento e falar
 type: Post
 date: 2014-08-14
 image: 'meetup-css-bem-vindos.jpg'
+category: "Eventos"
 ---
 
 Semana passada rolou o primeiro meetup de CSS SP. Há algum tempo atrás o [Felipe Fialho](https://twitter.com/lfeh) teve a idéia e entrei no barco para ajudar na organização. Não sabíamos o alcance e nem se teria adesão um meetup de CSS mas resolvemos arriscar.

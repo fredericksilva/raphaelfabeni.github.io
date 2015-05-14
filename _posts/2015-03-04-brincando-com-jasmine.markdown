@@ -6,6 +6,7 @@ type: Post
 date: 2015-03-04
 image: 'brincando-jasmine.jpg'
 alt: 'Imagem mostra relógios de uma máquina antiga de uma fábrica'
+category: "JavaScript"
 ---
 
 Você testa seu código **JS**?  Se a resposta foi não, nunca é tarde pra começar. Não vou me alongar aqui falando o porque tanta gente fala de fazer testes, existem milhares de posts sobre isso. Vou direto ao assunto: o brother *Jasmine*.

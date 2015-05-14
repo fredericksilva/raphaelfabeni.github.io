@@ -9,7 +9,7 @@
 <body id="hold" class="{% if page.class %}{{ page.class }}{% endif %}" data-color="default">
 
     {% include header.html %}
-    
+
     {% if page.type != 'Home' %}
     {% include breadcrumbs.html %}
     {% endif %}
@@ -20,7 +20,7 @@
     {% if page.type == 'Post' %}
         {% include disqus.html %}
     {% endif %}
-    
+
     {% if page.type == 'Projects' %}
         <script src="{{ site.baseurl }}build/js/libs/jquery.min.js"></script>
         <script src="{{ site.baseurl }}build/js/projects.min.js"></script>
